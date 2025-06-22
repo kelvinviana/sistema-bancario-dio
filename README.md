@@ -1,7 +1,5 @@
-# Sistema Bancário com Python versão 1
-Desenvolvimento do sistema bancário versão inicial proposto pelo Bootcamp Backend Python do Santander em parceria com a DIO.
-
-Trata-se apenas de uma versão inicial então não utiliza conceitos mais complexos como funções e métodos.
+# Sistema Bancário com Python
+Desenvolvimento do sistema bancário proposto pelo Bootcamp Backend Python do Santander em parceria com a DIO.
 
 O objetivo é apenas colocar em prática o conteúdo aprendido até o momento no Bootcamp.
 
